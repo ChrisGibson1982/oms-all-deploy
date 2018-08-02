@@ -1,2 +1,3 @@
 # oms-all-deploy
-Clone of Microsoft's oms-all-deploy Azure Arm QuickStart Template with different solutions
+
+Clone on Microsoft Quick Start Template "OMS-All-Deploy" with some extra solutions
